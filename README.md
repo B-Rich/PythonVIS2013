@@ -24,4 +24,5 @@ and [Pandas](http://pandas.pydata.org/), and probably other packages to a lesser
 Presenters
 -------------
 Peter Wang (pwang@continuum.io)
+
 Joseph Cottam (jcottam@indiana.edu)
