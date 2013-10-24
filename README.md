@@ -19,3 +19,10 @@ and [Pandas](http://pandas.pydata.org/), and probably other packages to a lesser
 * Install [PyQTGraph](http://www.pyqtgraph.org/) by running "pip install pyqtgraph" in your terminal.
 * Install [Vincent](https://github.com/wrobstory/vincent) by cloning the github repo.
 * Install [Bokeh](https://github.com/ContinuumIO/Bokeh) by cloning the gibhub repo.
+
+
+Presenters
+-------------
+Peter Wang (pwang@continuum.io)
+
+Joseph Cottam (jcottam@indiana.edu)
