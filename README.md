@@ -3,6 +3,18 @@ PythonVIS2013
 
 Supporting the "Visualization and Analytics in Python" tutorial at VIS 2013
 
+Resources for learning more Python
+----------------------------------
+
+* [Scipy Lectures](http://scipy-lectures.github.io/) (Has information about NumPy and Matplotlib as well)
+* [PyData Tutorial videos](https://vimeo.com/channels/612789)
+* [10 Minute Intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Pandas + Matplotlib plotting tutorial](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
+* Somewhat outdated [Big List of Python Plotting Libraries](https://wiki.python.org/moin/NumericAndScientific/Plotting)
+* [IPython Notebook-based Lectures on Learning Python](https://www.wakari.io/gallery)
+
+
+
 Before the workshop
 -------------
 To create a more fluid experience at the tutorial, please download the software listed below before attending.  
